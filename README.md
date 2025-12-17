@@ -1,11 +1,12 @@
 # Análise da Cardiopatia Crônica em Pacientes com SRAG
 
-Este repositório contém o artigo científico e os notebooks utilizados no
+Este repositório contém o artigo científico, notebook e video utilizados no
 Trabalho final de Introdução de Dados do IFB.
 
 ## Conteúdo
-- Artigo científico no formato BRACIS em formato docx e pdf
-- Notebook em Python (Google Colab) para análise estatística e modelagem preditiva
+- `artigo/`: artigo científico em docx e pdf (formato BRACIS)
+- `notebook/`: análise dos dados em Python (Google Colab)
+- `video/`: vídeo de apresentação do trabalho
 
 ## Dados
 Os dados utilizados são provenientes do SIVEP-Gripe (DATASUS) e não estão
