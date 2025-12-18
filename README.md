@@ -1,6 +1,6 @@
 # Análise da Cardiopatia Crônica em Pacientes com SRAG
 
-Este repositório contém o artigo científico, notebook e video utilizados no
+Este repositório contém o artigo científico, notebook, link do video e link da pasta do database utilizados no
 Trabalho final de Introdução de Dados do IFB.
 
 ## Conteúdo
