@@ -6,7 +6,8 @@ Trabalho final de Introdução de Dados do IFB.
 ## Conteúdo
 - artigo: artigo científico em docx e pdf (formato BRACIS)
 - notebook c0llab: análise dos dados em Python (Google Colab)
-- link do video: vídeo de apresentação do trabalho
+- link_video: vídeo de apresentação do trabalho
+- link_database: pasta da base de dados no google drive
 
 ## Dados
 Os dados utilizados são provenientes do SIVEP-Gripe (DATASUS) e não estão
