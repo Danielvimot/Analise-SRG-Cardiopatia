@@ -14,6 +14,6 @@ Os dados utilizados são provenientes do SIVEP-Gripe (DATASUS) e não estão
 disponíveis neste repositório por questões de volume e boas práticas, mas contém o link de acesso aos dados.
 
 ## Autores
-Daniel Viana Mota
-Gustavo Santos Novais 
+Daniel Viana Mota -
+Gustavo Santos Novais -
 Lafaete Dias Alves
