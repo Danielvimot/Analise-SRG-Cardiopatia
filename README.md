@@ -11,7 +11,7 @@ Trabalho final de Introdução de Dados do IFB.
 
 ## Dados
 Os dados utilizados são provenientes do SIVEP-Gripe (DATASUS) e não estão
-disponíveis neste repositório por questões de volume e boas práticas.
+disponíveis neste repositório por questões de volume e boas práticas, mas contém o link de acesso aos dados.
 
 ## Autores
 Daniel Viana Mota
